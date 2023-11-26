@@ -1,0 +1,4 @@
+Dev R17 planing
+- Membuat project simpel
+- Membuat project dinamis
+- Membuat project elegan
